@@ -1,1 +1,1 @@
-Related to tiket https://youtrack.jetbrains.com/issue/SCL-18124.
+Related to ticket https://youtrack.jetbrains.com/issue/SCL-18124.
